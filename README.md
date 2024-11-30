@@ -2,7 +2,8 @@
 laboratório AI-900
 
 1º Passo: Acessar o Portal Azure e realizar a inscrição para assinatura Free:
-  - site: https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/?icid=free-services 
+  - site: https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/?icid=free-services
+    
   ![image](https://github.com/user-attachments/assets/a659b416-fae9-482a-ba83-58c0670ebfb3
   - Atenção: você precisar adicionar um número de cartão de crédito válido
 
