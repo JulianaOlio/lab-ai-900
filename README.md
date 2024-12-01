@@ -16,6 +16,18 @@ laboratório AI-900
 4º Passo: na página de busca ou no MarketPlace do Portal, procurar por Azure Machine Learning.
 ![image](https://github.com/user-attachments/assets/9e6a102c-6155-4c2a-b087-5534815b7294)
 
+5º Passo: Criar um workspace do Azure Machine Learning. Podemos Outros recursos de suporte, incluindo contas de armazenamento, registros de contêineres, máquinas virtuais e outros, são criados automaticamente conforme necessário.
+
+6º Passo: após realizar o provisionamento da workspace, podemos acessar o Estúdio do Azure Machine Learning, que é um portal baseado em navegador para gerenciar os recursos e trabalhos de machine learning. Lá podemos: 
+- Importar e explorar dados.
+- Criar e usar recursos de computação.
+- Executar o código em notebooks.
+- Usar ferramentas visuais para criar trabalhos e pipelines.
+- Usar o machine learning automatizado para treinar um modelo.
+- Exibir detalhes de modelos treinados, incluindo métricas de avaliação, informações de IA responsável e parâmetros de treinamento.
+- Implantar modelos treinados para inferência em lote e solicitação.
+- Importar e gerenciar modelos a partir de um catálogo de modelos abrangente.
+
 
     
 
